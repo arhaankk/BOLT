@@ -1,0 +1,12 @@
+Source: https://students.ok.ubc.ca/courses-money-enrolment/exams/ 
+Course Name: DATA_O 101.001
+Exam Day and Time: December 13, 2024 7:00PM
+Exam Location: GYM
+
+Course Name: DATA_O 310.101
+Exam Day and Time: December 12, 2024 12:00PM
+Exam Location: LIB 305
+
+Course Name: DATA_O 311.101
+Exam Day and Time: December 14, 2024 3:30PM
+Exam Location: FIP 204

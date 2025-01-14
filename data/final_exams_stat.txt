@@ -1,0 +1,24 @@
+Source: https://students.ok.ubc.ca/courses-money-enrolment/exams/  
+Course Name: STAT_O 124.001
+Exam Day and Time: December 20, 2024 3:30PM
+Exam Location: ASC 140
+
+Course Name: STAT_O 203.001
+Exam Day and Time: December 15, 2024 3:30PM
+Exam Location: ART 366
+
+Course Name: STAT_O 230.001
+Exam Day and Time: December 12, 2024 7:00PM
+Exam Location: EME 1121
+
+Course Name: STAT_O 303.001
+Exam Day and Time: December 15, 2024 12:00PM
+Exam Location: EME 1121
+
+Course Name: STAT_O 406.001
+Exam Day and Time: December 18, 2024 12:00PM
+Exam Location: LIB 303
+
+Course Name: STAT_O 547.I_0
+Exam Day and Time: December 18, 2024 12:00PM
+Exam Location: LIB 303

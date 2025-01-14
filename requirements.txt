@@ -1,0 +1,11 @@
+python-dotenv
+langchain
+langchain-community
+langchain-text-splitters
+langchain-groq
+beautifulsoup4
+langchain-pinecone
+pinecone-notebooks
+pinecone-client
+openai
+langchain-openai

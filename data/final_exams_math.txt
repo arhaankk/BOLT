@@ -1,0 +1,56 @@
+Source: https://students.ok.ubc.ca/courses-money-enrolment/exams/ 
+Course Name: MATH_O 100.001
+Exam Day and Time: December 10, 2024 3:30PM
+Exam Location: GYM
+
+Course Name: MATH_O 100.002
+Exam Day and Time: December 10, 2024 3:30PM
+Exam Location: GYM
+
+Course Name: MATH_O 100.003
+Exam Day and Time: December 10, 2024 3:30PM
+Exam Location: COM 201
+
+Course Name: MATH_O 100.004
+Exam Day and Time: December 10, 2024 3:30PM
+Exam Location: GYM
+
+Course Name: MATH_O 100.005
+Exam Day and Time: December 10, 2024 3:30PM
+Exam Location: ASC 140
+
+Course Name: MATH_O 100.006
+Exam Day and Time: December 10, 2024 3:30PM
+Exam Location: ART 366
+
+Course Name: MATH_O 100.007
+Exam Day and Time: December 10, 2024 3:30PM
+Exam Location: EME 0050
+
+Course Name: MATH_O 101.001
+Exam Day and Time: December 16, 2024 7:00PM
+Exam Location: FIP 204
+
+Course Name: MATH_O 116.001
+Exam Day and Time: December 13, 2024 8:30AM
+Exam Location: FIP 204
+
+Course Name: MATH_O 125.001
+Exam Day and Time: December 14, 2024 8:30AM
+Exam Location: ART 366
+
+Course Name: MATH_O 200.001
+Exam Day and Time: December 9, 2024 3:30PM
+Exam Location: COM 201
+
+Course Name: MATH_O 220.001
+Exam Day and Time: December 10, 2024 8:30AM
+Exam Location: ART 366
+
+Course Name: MATH_O 307.101
+Exam Day and Time: December 14, 2024 8:30AM
+Exam Location: ART 376
+
+Course Name: MATH_O 311.001
+Exam Day and Time: December 18, 2024 7:00PM
+Exam Location: LIB 306

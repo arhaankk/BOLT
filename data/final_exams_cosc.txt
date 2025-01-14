@@ -1,0 +1,64 @@
+Source: https://students.ok.ubc.ca/courses-money-enrolment/exams/ 
+Course Name: COSC_O 111.001
+Exam Day and Time: December 12, 2024 8:30AM
+Exam Location: GYM
+
+Course Name: COSC_O 111.002
+Exam Day and Time: December 12, 2024 8:30AM
+Exam Location: GYM
+
+Course Name: COSC_O 111.003
+Exam Day and Time: December 12, 2024 8:30AM
+Exam Location: GYM
+
+Course Name: COSC_O 121.001
+Exam Day and Time: December 20, 2024 12:00PM
+Exam Location: ASC 140
+
+Course Name: COSC_O 122.001
+Exam Day and Time: December 18, 2024 3:30PM
+Exam Location: ASC 140
+
+Course Name: COSC_O 211.001
+Exam Day and Time: December 16, 2024 12:00PM
+Exam Location: GYM
+
+Course Name: COSC_O 221.001
+Exam Day and Time: December 18, 2024 3:30PM
+Exam Location: GYM
+
+Course Name: COSC_O 222.001
+Exam Day and Time: December 17, 2024 7:00PM
+Exam Location: ASC 140
+
+Course Name: COSC_O 301.101
+Exam Day and Time: December 15, 2024 12:00PM
+Exam Location: ART 366
+
+Course Name: COSC_O 304.001
+Exam Day and Time: December 16, 2024 7:00PM
+Exam Location: COM 201
+
+Course Name: COSC_O 310.001
+Exam Day and Time: December 13, 2024 3:30PM
+Exam Location: FIP 204
+
+Course Name: COSC_O 320.001
+Exam Day and Time: December 9, 2024 8:30AM
+Exam Location: ART 366
+
+Course Name: COSC_O 341.001
+Exam Day and Time: December 10, 2024 12:00PM
+Exam Location: ART 366
+
+Course Name: COSC_O 344.101
+Exam Day and Time: December 19, 2024 12:00PM
+Exam Location: EME 0050
+
+Course Name: COSC_O 499.002
+Exam Day and Time: December 18, 2024 8:30AM
+Exam Location: COM 201
+
+Course Name: COSC_O 499.003
+Exam Day and Time: December 18, 2024 8:30AM
+Exam Location: COM 201
